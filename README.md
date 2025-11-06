@@ -11,7 +11,7 @@ Whenever new code is pushed to the repository, Jenkins automatically runs the pi
 
 <img width="1139" height="436" alt="Screenshot 2025-08-19 143347" src="https://github.com/user-attachments/assets/3c7ff652-6861-4f66-abd8-70dc89bfcf5b" />
 <img width="1877" height="833" alt="Screenshot 2025-08-19 143430" src="https://github.com/user-attachments/assets/6b690b2b-0e3e-4111-a59b-0669849ee337" />
-<img width="1139" height="436" alt="Screenshot 2025-08-19 143347" src="https://github.com/user-attachments/assets/3bbbffdc-d0ed-4142-90c5-813dabe9e670" />
+
 
 
 🛠️ Tech Stack & Tools Used
